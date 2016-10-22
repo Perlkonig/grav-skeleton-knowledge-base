@@ -1,0 +1,57 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        branch: master    
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: master
+    readingtime:
+        url: https://github.com/getgrav/grav-plugin-readingtime
+        path: user/plugins/readingtime
+        branch: master
+    count-views:
+        url: https://github.com/Perlkonig/grav-plugin-count-views
+        path: user/plugins/count-views
+    knowledge-base:
+        url: https://github.com/Perlkonig/grav-theme-knowledge-base
+        path: user/themes/knowledge-base
+        branch: master
+links:
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    relatedpages:
+        src: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github    
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        scm: github
+    readingtime:
+        src: grav-plugin-readingtime
+        path: user/plugins/readingtime
+        scm: github
+    count-views
+        src: grav-plugin-count-views
+        path: user/plugins/count-views
+        scm: github
+    knowledge-base:
+        src: grav-theme-knowledge-base
+        path: user/themes/knowledge-base
+        scm: github
