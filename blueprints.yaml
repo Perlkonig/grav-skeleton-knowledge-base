@@ -1,0 +1,14 @@
+name: Knowledge Base
+version: 1.0.0
+description: A skeleton for the Knowledge Base theme, including sample content and required plugins
+icon: database
+author:
+  name: Aaron Dalton
+  email: aaron@daltons.ca
+homepage: https://github.com/Perlkonig/grav-skeleton-knowledge-base
+demo: http://perlkonig.com/knowledge-base
+keywords: grav, theme, skeleton, faq, knowledge base, responsive, css3, html5, purecss
+bugs: https://github.com/Perlkonig/grav-skeleton-knowledge-base/issues
+readme: https://github.com/Perlkonig/grav-skeleton-knowledge-base/blob/master/README.md
+license: MIT
+

@@ -1,0 +1,8 @@
+title: Knowledge Base
+author:
+  name: Aaron Dalton
+  email: 'aaron@daltons.ca'
+metadata:
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+taxonomies: [category,tag,author]
+
