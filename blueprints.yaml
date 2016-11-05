@@ -18,6 +18,6 @@ dependencies:
   - relatedpages
   - simplesearch
   - readingtime
-  - count-views
-  - knowledge-base
+  - 'count-views'
+  - 'knowledge-base'
   

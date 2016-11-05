@@ -19,10 +19,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-readingtime
         path: user/plugins/readingtime
         branch: master
-    count-views:
+    'count-views':
         url: https://github.com/Perlkonig/grav-plugin-count-views
         path: user/plugins/count-views
-    knowledge-base:
+    'knowledge-base':
         url: https://github.com/Perlkonig/grav-theme-knowledge-base
         path: user/themes/knowledge-base
         branch: master
@@ -47,11 +47,11 @@ links:
         src: grav-plugin-readingtime
         path: user/plugins/readingtime
         scm: github
-    count-views:
+    'count-views':
         src: grav-plugin-count-views
         path: user/plugins/count-views
         scm: github
-    knowledge-base:
+    'knowledge-base':
         src: grav-theme-knowledge-base
         path: user/themes/knowledge-base
         scm: github
