@@ -22,6 +22,7 @@ git:
     'count-views':
         url: https://github.com/Perlkonig/grav-plugin-count-views
         path: user/plugins/count-views
+        branch: master
     'knowledge-base':
         url: https://github.com/Perlkonig/grav-theme-knowledge-base
         path: user/themes/knowledge-base
