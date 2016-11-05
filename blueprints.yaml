@@ -12,3 +12,12 @@ bugs: https://github.com/Perlkonig/grav-skeleton-knowledge-base/issues
 readme: https://github.com/Perlkonig/grav-skeleton-knowledge-base/blob/master/README.md
 license: MIT
 
+dependencies:
+  - error
+  - problems
+  - relatedpages
+  - simplesearch
+  - readingtime
+  - count-views
+  - knowledge-base
+  

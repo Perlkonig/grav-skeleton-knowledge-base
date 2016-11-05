@@ -47,7 +47,7 @@ links:
         src: grav-plugin-readingtime
         path: user/plugins/readingtime
         scm: github
-    count-views
+    count-views:
         src: grav-plugin-count-views
         path: user/plugins/count-views
         scm: github
