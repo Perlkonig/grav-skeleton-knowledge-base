@@ -1,3 +1,12 @@
+# v1.0.5
+## 07/17/2018
+
+1. [](#new)
+    * Updated to Grav v1.4.7.
+
+1. [](#bugfix)
+    * Fix to underlying theme.
+
 # v1.0.4
 ## 4/12/2018
 
