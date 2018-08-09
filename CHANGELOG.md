@@ -1,3 +1,10 @@
+# v1.0.6
+## 08/09/2018
+
+1. [](#updated)
+    * Updated to theme v2.0.0.
+    * Updated to Grav v1.4.8.
+
 # v1.0.5
 ## 07/17/2018
 
