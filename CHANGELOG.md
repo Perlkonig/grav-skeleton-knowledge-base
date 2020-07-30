@@ -1,3 +1,15 @@
+# v1.0.9
+## 07/30/2020
+
+1. [](#updated)
+    * Updated to theme v2.1.1
+
+# v1.0.8
+## 07/29/2020
+
+1. [](#updated)
+    * Updated to Grav v1.6.26
+
 # v1.0.7
 ## 03/16/2019
 
